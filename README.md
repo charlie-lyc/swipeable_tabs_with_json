@@ -1,1 +1,1 @@
-# Swipeable tabs with JSON data
+# Swipeable tabs with Materialize CSS and JSON data
